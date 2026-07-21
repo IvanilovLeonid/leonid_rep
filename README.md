@@ -1,16 +1,6 @@
 # Hi I'm Leonid!
 
-I'm a software engineer from Moscow and currently studying at the Higher School of Economics.
-
-## Skills & Expertise
-
-- **Languages**: C++, Python, C, Golang
-- **Tools & Technologies**: Docker, HTTP, Algorithms, nginx, .
-- **Principles**: OOP.
-
-## What I'm Working On
-
-I'm currently involved in several services development projects, focusing on performance optimization, scalable architectures, and integrating modern technologies to enhance functionality.
+I'm a ml-engineer from Moscow and currently studying at the Higher School of Economics.
 
 ## Education
 
